@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("making command for echo:: a rust version:");
+    println!("{:?}",std::env::args());
 }
