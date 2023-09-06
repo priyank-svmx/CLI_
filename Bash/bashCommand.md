@@ -1,4 +1,4 @@
-#Some of the Bash commands on linux
+# Some of the Bash commands on linux
 - pwd
 - whoami
 - cd .. (one level move up)
