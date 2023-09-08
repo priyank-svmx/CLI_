@@ -16,7 +16,7 @@
 
 - `more` takes you through the file one page at a time 
 - `less` just like `more`, however gives you `/` to search any term in the file
-
+- `history` command
 
 
 
